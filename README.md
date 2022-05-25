@@ -1,7 +1,7 @@
 # Dio-Spread
 Bootcamp
 
-Aulas e Dicas  -Aprendizado 
+Aulas e Dicas  -Aprendizado /Projetos Desenvolvidos
 Módulo I - Git GitHub
 Módulo II - HTML/CSS3
 Módulo III- Javascript
