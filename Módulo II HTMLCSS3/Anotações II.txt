@@ -1,0 +1,61 @@
+O que são Stacks:
+
+Pilha de Tecnologia - Conjunto de software necessários e suficientes para executar um aplicativo
+
+
+Divisão de Stacks
+
+Front -end : Parte da Frente : Site, software, aplicativo, web service/ Interface: UI,UX/ Lógica de programação: HTML,CSS, jQuery, AJAX, JS
+
+Back- end: Parte de trás: Servidores,banco de dados / meio de campo : interface e bancos de dados, validação:/ MySQL, Oracle, protocolos de comunicação, PHP, Java
+
+Full Stack : Profissional que sabe trabalhar em todas as camadas das tecnologias/desenvolvimento/execução de um app
+
+
+
+                                    LPs e termos
+Lingguagem de Programação
+
+Principais linguagens: 
+
+Python
+Java Script
+Linguagem Java
+C++
+PHP
+C
+
+
+HTML
+CSS
+CSS Flex Box
+
+
+
+
+
+XAMPP
+
+                                Flex Box
+
+Flex Container
+Flex Direction
+Flex Wrap = Quebra de Página
+Flex Flow = Comprimir
+
+Justify Content = Alinhar os itens dentro do container
+
+Resumo
+center: Alinhamento dos itens ao centro
+stretch: é o padrão e os flex itens crescem igualmente
+Flex-start: alinhamento dos itens no início
+Flex-end: alinhamento dos itens no final
+space-between: cria um espaçamento igual entre os elementos
+space´-around: os espaçamentos do meio são duas vezes maiores que o inicial e final
+
+Flex -grow = Define crescimento dos itens
+Flex-basis=valores possíveis
+Flex-shrink= Propriedade estabelecer a capacidade de redução ou compressão di tamanho de um item
+
+
+Site: gitlab.com/karensantos/project-flexbox-dio
