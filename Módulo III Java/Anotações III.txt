@@ -1,0 +1,215 @@
+                               Módulo III
+
+Javascript -  Linguagem da Web
+
+Base Interpretada: momentânea
+
+Funções:
+
+
+Function 
+
+Node
+
+
+JavaScript
+
+CSS
+
+Html
+
+Mercado de Trabalho
+
+Frameworks e blibliotecas
+
+-VueJS
+-React
+-Angular
+-jQuery
+
+
+                                  Operadores
+
+** Exponencial
+/ Divisão
+% Módulo
+++ Incrementar
+-- Decrementar
+
+                                     Comparação
+
+== Igual a
+=== Mesmo valor e mesmo tipo
+!= Diferente
+!== Valor e Tipos Diferentes
+
+                                    Lógica
+
+&& e lógico
+|| ou
+! não
+
+                  Condição
+          ? expressão : 2 expressão 
+
+igual If else
+
+                          Variáveis e Tipos
+
+Var x Let
+Let só no bloco e Var Global
+
+                                Strings
+
+São textos
+Propriedades:
+- Concatenação
+- Propriedade Length
+- Iterabilidade
+- Formatação
+- Index das Letras
+
+                                 Números
+
+Operações
+PI
+
+                                 Funções
+function
+return = função para
+Função autoinvocável = 
+Callbacks = função que passa argumento de outra função
+
+                           
+
+
+
+
+
+                                Booleans
+True
+False
+
+                                 Arrays
+Vetores
+array.push = adicionar
+array.pop = tirar último
+array.shift= tira primeiro /unshift contrário
+
+                                 Objetos
+
+Chave - valor
+object.values = valor
+object.keys= chave
+
+     Parâmetros
+argumentos= array com todos os parâmetros quando a função foi invocada
+
+                                Loops **
+-if =
+-else
+-switch/case = muitas verificações /equivale a uma comparação de tipo e valor(===), sempre precisa default
+- for =  loop dentro de elementos (arrays, strings)
+- for in = enumeráveis
+- for of = estrtuturas iteráveis
+- while = executa enquanto a condição verdadeira , até se torne falsa
+- do while= igual porém roda sempre a primeira vez
+- This
+- apply = dentro array
+- 
+                               Arrow Functions
+Arrow ñ faz hoisting
+Restrições = this = global/ ñ existe objeto arguments/
+
+                             Map
+
+Map = Map x Objeto
+const myMap = chave + valor = coleção de arrays
+* For of
+
+Diferença Objeto = Maps pode ter chaves de qualquer tipo e tem propriedade length /e Objeto (Strings)
+ 
+Set = Diferença Set x Array
+
+Set = Armazena valores únicos ( ñ se repete)
+
+Set propriedade Size no Lugar de length
+
+Ñ possui propriedade map, filter, reduce
+
+                              
+
+                                 Métodos de Arrays
+
+Map = Conjuntos Set A pra Set B = através função
+
+- Cria novo Array e ñ modifica - realiza em ordem
+
+                   Map x for Each = diferença valor de retorno
+
+
+Filter=  Array FILTRO
+-Cria novo array
+
+
+
+Reduce= Executa uma função em todos os elementos do array, retornando valor único
+função: array.reduce(callbackFn,initialValue)
+
+
+
+                               Error
+
+Error ECMAScript  = erro em tempo de execução
+
+DOMEException = erro relacionados ao Document Object Model = erro ligado a Web
+
+                               Tratamento
+
+trhow = 
+
+return = retorna string
+
+try =
+ 
+catch = pegar o erro somente realmente o log do console =  permite manipular o erro (somente o erro)
+
+Finally = executa mesmo depois dos erros
+
+Debugging
+
+Error Handling
+
+
+                                    Assincronicidade
+
+Assincrono = ñ ocorre mesmo tempo
+Java é síncrono
+new Promise = assíncrono = promessa = n sabe o valor = pending/fullfilled, reject
+
+Async =  define funções assíncronas precisa usar
+Await = lidar promise = espera promise resolver
+
+APIs = itermedia resultados do back com o apresentado front
+
+Método Fetch = url e opções transformar em json = promise
+
+POST , GET , PUT, DELETE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

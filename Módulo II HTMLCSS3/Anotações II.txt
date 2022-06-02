@@ -59,3 +59,13 @@ Flex-shrink= Propriedade estabelecer a capacidade de redução ou compressão di
 
 
 Site: gitlab.com/karensantos/project-flexbox-dio
+
+
+Módulo III
+
+Javascript -  Linguagem da Web
+
+Base Interpretada: momentânea
+
+
+
